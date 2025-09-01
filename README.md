@@ -16,63 +16,135 @@
 
 ---
 
-## 🔬 Main Research Domains
+## 🔬 Research Areas
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🚀+Exploring+AI+frontiers+across+diverse+domains;💡+Computer+Vision+%7C+NLP+%7C+Graph+Networks+%7C+Healthcare+AI;🎯+Federated+Learning+%7C+3D+Vision+%7C+Reinforcement+Learning" alt="Research Focus"/>
 </div>
 
+<div align="center">
+
+### 🌟 Interactive Research Ecosystem
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
 <table>
 <tr>
-<td width="20%" style="border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+<td align="center" width="16.6%">
+
+🔵 **Computer Vision**
+<br><sub>*3D Systems & Detection*</sub>
+<br>![CV](https://img.shields.io/badge/Projects-15-blue?style=flat-square)
+
+</td>
+<td align="center" width="16.6%">
+
+🟢 **Natural Language**
+<br><sub>*Processing & Understanding*</sub>
+<br>![NLP](https://img.shields.io/badge/Projects-18-green?style=flat-square)
+
+</td>
+<td align="center" width="16.6%">
+
+🔴 **Cybersecurity AI**
+<br><sub>*Threat Detection & Security*</sub>
+<br>![Cyber](https://img.shields.io/badge/Projects-7-red?style=flat-square)
+
+</td>
+<td align="center" width="16.6%">
+
+🟣 **Healthcare AI**
+<br><sub>*Medical & Biocomputing*</sub>
+<br>![Health](https://img.shields.io/badge/Projects-12-purple?style=flat-square)
+
+</td>
+<td align="center" width="16.6%">
+
+🟡 **Graph Networks**
+<br><sub>*Knowledge & Molecular*</sub>
+<br>![Graph](https://img.shields.io/badge/Projects-9-yellow?style=flat-square)
+
+</td>
+<td align="center" width="16.6%">
+
+🟠 **Space AI**
+<br><sub>*Autonomous Systems*</sub>
+<br>![Space](https://img.shields.io/badge/Projects-3-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Main Research Domains
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284103-4cc9669a-5e2a-4880-9ac4-6c37b1e5f8b5.gif" width="800"/>
+</div>
+
+<table>
+<tr>
+<td width="20%">
 
 **🛡️ CYBERSECURITY AI**
 
-**Active:** `7 projects` **Focus:** `Threat Detection`
+**Active:** `7 projects`
+**Focus:** `Threat Detection`
 
 Advanced threat detection and security protocols
 
 **Impact:** ⭐⭐⭐⭐⭐
 
 </td>
-<td width="20%" style="border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+<td width="20%">
 
 **🚀 SPACE AI**
 
-**Active:** `3 projects` **Focus:** `Autonomous Craft`
+**Active:** `3 projects`
+**Focus:** `Autonomous Craft`
 
 Spacecraft navigation and control systems
 
 **Impact:** ⭐⭐⭐⭐
 
 </td>
-<td width="20%" style="border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+<td width="20%">
 
 **🌍 CLIMATE AI**
 
-**Active:** `5 projects` **Focus:** `Environmental Modeling`
+**Active:** `5 projects`
+**Focus:** `Environmental Modeling`
 
 Climate modeling and monitoring systems
 
 **Impact:** ⭐⭐⭐⭐⭐
 
 </td>
-<td width="20%" style="border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+<td width="20%">
 
 **🧬 BIOCOMPUTING**
 
-**Active:** `2 projects` **Focus:** `DNA Computing`
+**Active:** `2 projects`
+**Focus:** `DNA Computing`
 
 Revolutionary biological computational systems
 
 **Impact:** ⭐⭐⭐⭐
 
 </td>
-<td width="20%" style="border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+<td width="20%">
 
 **💰 FINANCIAL AI**
 
-**Active:** `6 projects` **Focus:** `Risk & Trading`
+**Active:** `6 projects`
+**Focus:** `Risk & Trading`
 
 Algorithmic trading and risk assessment
 
@@ -87,10 +159,16 @@ Algorithmic trading and risk assessment
 ## 📈 Research Analytics Command Center
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=20&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+Real-time+Analytics+Dashboard;📊+Performance+Monitoring+System;🎯+Excellence+Tracking+Engine;🚀+Innovation+Impact+Metrics" alt="Analytics Center"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=18&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=⚡+Real-time+Analytics+Dashboard;📊+Performance+Monitoring+System;🎯+Excellence+Tracking+Engine;🚀+Innovation+Impact+Metrics" alt="Analytics Center"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800"/>
 </div>
 
 ### 📅 Interactive Project Timeline
+
+<div align="center">
 
 | **Week** | **Phase** | **Milestone** | **Progress** | **Status** |
 |:--------:|:---------:|:-------------|:------------:|:----------:|
@@ -100,17 +178,23 @@ Algorithmic trading and risk assessment
 | **11-13** | 🔬 | Experimentation & Analysis | ![Progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | ⏳ **Pending** |
 | **14-16** | 📝 | Documentation & Presentation | ![Progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | ⏳ **Pending** |
 
+</div>
+
 ---
 
 ## 🧭 Interactive Navigation Hub
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=16&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=🎯+Smart+Navigation+System;⚡+Quick+Access+Control+Panel;📊+Resource+Discovery+Hub" alt="Navigation Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=15&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=🎯+Quick+Access+Control+Panel;📊+Smart+Navigation+System;⚡+Instant+Resource+Discovery" alt="Navigation Header"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
 <table>
 <tr>
-<td width="33%" style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 10px;">
+<td width="33%">
 
 ### 🎓 Student Portal
 
@@ -121,13 +205,12 @@ Algorithmic trading and risk assessment
 💻 **Commit** Regular updates required
 💬 **Connect** Weekly supervisor meetings
 
-🔗 **Essential Resources**
-📁 [Project Templates](./templates/) 
+📁 [Project Templates](./templates/)
 📚 [Documentation](./docs/)
 ❓ [Create Issue](../../issues/new)
 
 </td>
-<td width="33%" style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); margin: 10px;">
+<td width="33%">
 
 ### 👨‍🏫 Supervisor Dashboard
 
@@ -137,13 +220,12 @@ Algorithmic trading and risk assessment
 💬 **Review** Issue comment discussions
 📅 **Schedule** Weekly progress check-ins
 
-🛠️ **Management Tools**
 📊 [View All Projects](./projects/)
 📈 [Project Board](../../projects)
 💬 [Discussions](../../discussions)
 
 </td>
-<td width="33%" style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); margin: 10px;">
+<td width="33%">
 
 ### 🔧 Resource Center
 
@@ -153,7 +235,6 @@ Algorithmic trading and risk assessment
 ❓ **Support** Issue tracking system
 💬 **Forum** Community discussions
 
-🔗 **Quick Access**
 📁 [Browse Projects](./projects/)
 📖 [Documentation](./docs/)
 🆘 [Get Support](../../issues)
@@ -167,7 +248,7 @@ Algorithmic trading and risk assessment
 ## 📊 Research Activity Distribution
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=18&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=450&lines=🔥+Activity+Heat+Map;📈+Research+Insights" alt="Activity Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=16&duration=1500&pause=600&color=F75C7E&center=true&vCenter=true&width=400&lines=📊+Live+Performance+Dashboard;🚀+Excellence+Impact+Tracker;⚡+Real-time+Research+Insights" alt="Metrics Header"/>
 </div>
 
 🗣️ **NLP & Language Understanding** `████████████████████████████████████████` **18 projects**
@@ -190,16 +271,44 @@ Algorithmic trading and risk assessment
 
 🧬 **Biocomputing** `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **2 projects**
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=500&lines=🎯+Driving+Innovation+Through+Research;📈+Measuring+Excellence+Daily;⚡+Real-time+Progress+Tracking" alt="Analytics Footer"/>
+</div>
+
 ---
 
 ## 🏆 Research Excellence Metrics
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=16&duration=1500&pause=600&color=F75C7E&center=true&vCenter=true&width=400&lines=📊+Live+Performance+Dashboard;🚀+Excellence+Impact+Tracker;⚡+Real-time+Research+Insights" alt="Metrics Header"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+</div>
+
+<div align="center">
+
+### 🎯 Key Performance Indicators
 
 ![Active Projects](https://img.shields.io/badge/🔥%20Active%20Projects-62-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white)
 ![Research Areas](https://img.shields.io/badge/🔬%20Research%20Areas-20+-blue?style=for-the-badge&logo=science&logoColor=white)
 ![Completion](https://img.shields.io/badge/✅%20Completion%20Rate-85%25-success?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Innovation](https://img.shields.io/badge/💡%20Innovation%20Score-9.2%2F10-yellow?style=for-the-badge&logo=lightbulb&logoColor=black)
+
+</div>
+
+<div align="center">
+
+### 📊 Research Impact Matrix
+
+| **Domain** | **Projects** | **Impact Score** | **Completion** | **Innovation** |
+|:----------:|:------------:|:----------------:|:--------------:|:--------------:|
+| 🗣️ **NLP** | 18 | ⭐⭐⭐⭐⭐ | ![95%](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | 🔥 High |
+| 👁️ **Vision** | 15 | ⭐⭐⭐⭐⭐ | ![88%](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | 🔥 High |
+| 🏥 **Healthcare** | 12 | ⭐⭐⭐⭐⭐ | ![92%](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | 🚀 Very High |
+| 🔗 **Graph** | 9 | ⭐⭐⭐⭐ | ![78%](https://geps.dev/progress/78?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | 💡 Medium |
+| 🛡️ **Security** | 7 | ⭐⭐⭐⭐⭐ | ![85%](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9500&successColor=3fb950&neutralColor=d0d7de&successColorLight=aff5b4&neutralColorLight=f6f8fa) | 🔥 High |
 
 </div>
 
@@ -211,10 +320,10 @@ Algorithmic trading and risk assessment
 <tr>
 <td width="30%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200"/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=14&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=250&height=60&lines=🛟+Support+Center;📞+Smart+Contact+Hub" alt="Support Visual"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200"/>
 </div>
 
 </td>
@@ -223,23 +332,20 @@ Algorithmic trading and risk assessment
 ### 📞 Smart Contact System
 
 | **Channel** | **Access** | **SLA** | **Purpose** |
-|-------------|------------|---------|-------------|
-| 🐛 **Tech Issues** | [![Issues](https://img.shields.io/badge/Create-Issue-dc2626?style=flat-square&logo=github)](../../issues/new?template=support.md) | `< 24h` | Bugs & Repository Problems |
-| 🎓 **Academic** | [![Supervisor](https://img.shields.io/badge/Contact-Supervisor-1e40af?style=flat-square&logo=user-graduate)](mailto:supervisor@university.edu) | `< 48h` | Research Questions |
-| 💬 **General** | [![Forum](https://img.shields.io/badge/Discussion-Forum-059669?style=flat-square&logo=discourse)](../../discussions) | `< 12h` | General Inquiries |
-| 🚨 **Urgent** | [![Slack](https://img.shields.io/badge/Emergency-Slack-7c3aed?style=flat-square&logo=slack)](https://university-research.slack.com) | `< 4h` | Critical Issues |
+|:-----------|:----------:|:-------:|:-----------:|
+| 🐛 **Tech Issues** | [![Issues](https://img.shields.io/badge/Create-Issue-red?style=flat-square&logo=github)](../../issues/new?template=support.md) | `< 24h` | Bugs & Repository Problems |
+| 🎓 **Academic** | [![Supervisor](https://img.shields.io/badge/Contact-Supervisor-blue?style=flat-square&logo=user-graduate)](mailto:supervisor@university.edu) | `< 48h` | Research Questions |
+| 💬 **General** | [![Forum](https://img.shields.io/badge/Discussion-Forum-green?style=flat-square&logo=discourse)](../../discussions) | `< 12h` | General Inquiries |
+| 🚨 **Urgent** | [![Slack](https://img.shields.io/badge/Emergency-Slack-purple?style=flat-square&logo=slack)](https://university-research.slack.com) | `< 4h` | Critical Issues |
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary>🏗️ <b>Repository Architecture Overview</b></summary>
 
-## 🏗️ Repository Architecture
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=16&duration=2500&pause=1000&color=4facfe&center=true&vCenter=true&width=400&lines=📁+Repository+Structure;🏗️+Project+Organization" alt="Architecture Header"/>
-</div>
+<br>
 
 ```
 📁 {MAIN_REPO_NAME}/
@@ -259,9 +365,9 @@ Algorithmic trading and risk assessment
 └── 📄 README.md                   # This file
 ```
 
----
+</details>
 
-## 🌐 Connect With Our Research Community
+### 🌐 Connect With Our Research Community
 
 <div align="center">
 
