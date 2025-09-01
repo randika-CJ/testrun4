@@ -69,7 +69,7 @@
 <br>![Graph](https://img.shields.io/badge/Projects-9-yellow?style=flat-square)
 
 </td>
-<td align="center" width="16.6%">
+<td width="16.6%">
 
 🟠 **Space AI**
 <br><sub>*Autonomous Systems*</sub>
@@ -98,7 +98,7 @@
 **Active:** `7 projects`
 **Focus:** `Threat Detection`
 
-Advanced threat detection and security protocols
+<sub>Advanced threat detection<br>and security protocols</sub>
 
 **Impact:** ⭐⭐⭐⭐⭐
 
@@ -110,7 +110,7 @@ Advanced threat detection and security protocols
 **Active:** `3 projects`
 **Focus:** `Autonomous Craft`
 
-Spacecraft navigation and control systems
+<sub>Spacecraft navigation<br>and control systems</sub>
 
 **Impact:** ⭐⭐⭐⭐
 
@@ -122,7 +122,7 @@ Spacecraft navigation and control systems
 **Active:** `5 projects`
 **Focus:** `Environmental Modeling`
 
-Climate modeling and monitoring systems
+<sub>Climate modeling<br>and monitoring systems</sub>
 
 **Impact:** ⭐⭐⭐⭐⭐
 
@@ -134,7 +134,7 @@ Climate modeling and monitoring systems
 **Active:** `2 projects`
 **Focus:** `DNA Computing`
 
-Revolutionary biological computational systems
+<sub>Revolutionary biological<br>computational systems</sub>
 
 **Impact:** ⭐⭐⭐⭐
 
@@ -146,7 +146,7 @@ Revolutionary biological computational systems
 **Active:** `6 projects`
 **Focus:** `Risk & Trading`
 
-Algorithmic trading and risk assessment
+<sub>Algorithmic trading<br>and risk assessment</sub>
 
 **Impact:** ⭐⭐⭐⭐⭐
 
@@ -159,7 +159,7 @@ Algorithmic trading and risk assessment
 ## 📈 Research Analytics Command Center
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=18&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=⚡+Real-time+Analytics+Dashboard;📊+Performance+Monitoring+System;🎯+Excellence+Tracking+Engine;🚀+Innovation+Impact+Metrics" alt="Analytics Center"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=18&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=⚡+Advanced+Research+Analytics;📊+Real-time+Performance+Monitoring;🎯+Excellence+Tracking+System;🚀+Innovation+Impact+Metrics" alt="Analytics Center"/>
 </div>
 
 <div align="center">
@@ -198,46 +198,61 @@ Algorithmic trading and risk assessment
 
 ### 🎓 Student Portal
 
-🚀 **Navigate** `projects/[YOUR-INDEX]-[YOUR-AREA]/`
-📖 **Read** `docs/project_guidelines.md`
-✍️ **Create** `docs/research_proposal.md`
-📊 **Track** Use GitHub Issues for progress
-💻 **Commit** Regular updates required
-💬 **Connect** Weekly supervisor meetings
+<details>
+<summary>📋 <b>Click to Expand Student Resources</b></summary>
 
-📁 [Project Templates](./templates/)
-📚 [Documentation](./docs/)
-❓ [Create Issue](../../issues/new)
+🚀 **Navigate:** projects/[YOUR-INDEX]-[YOUR-AREA]/  
+📖 **Read:** docs/project_guidelines.md  
+✍️ **Create:** docs/research_proposal.md  
+📊 **Track:** Use GitHub Issues for progress  
+💻 **Commit:** Regular updates required  
+💬 **Connect:** Weekly supervisor meetings  
+
+📁 [Project Templates](./templates/)  
+📚 [Documentation](./docs/)  
+❓ [Create Issue](../../issues/new)  
+
+</details>
 
 </td>
 <td width="33%">
 
 ### 👨‍🏫 Supervisor Dashboard
 
-📋 **Access** `docs/supervisor_guide.md`
-📊 **Monitor** Student progress via Issues
-📈 **Overview** GitHub Projects dashboard
-💬 **Review** Issue comment discussions
-📅 **Schedule** Weekly progress check-ins
+<details>
+<summary>🎯 <b>Click to Expand Supervisor Tools</b></summary>
 
-📊 [View All Projects](./projects/)
-📈 [Project Board](../../projects)
-💬 [Discussions](../../discussions)
+📋 **Access:** docs/supervisor_guide.md  
+📊 **Monitor:** Student progress via Issues  
+📈 **Overview:** GitHub Projects dashboard  
+💬 **Review:** Issue comment discussions  
+📅 **Schedule:** Weekly progress check-ins  
+
+📊 [View All Projects](./projects/)  
+📈 [Project Board](../../projects)  
+💬 [Discussions](../../discussions)  
+
+</details>
 
 </td>
 <td width="33%">
 
 ### 🔧 Resource Center
 
-📁 **Projects** Student work repositories
-📚 **Docs** Course documentation
-📋 **Templates** Standardized formats
-❓ **Support** Issue tracking system
-💬 **Forum** Community discussions
+<details>
+<summary>🛠️ <b>Click to Expand Resources</b></summary>
 
-📁 [Browse Projects](./projects/)
-📖 [Documentation](./docs/)
-🆘 [Get Support](../../issues)
+📁 **Projects:** Student work repositories  
+📚 **Docs:** Course documentation  
+📋 **Templates:** Standardized formats  
+❓ **Support:** Issue tracking system  
+💬 **Forum:** Community discussions  
+
+📁 [Browse Projects](./projects/)  
+📖 [Documentation](./docs/)  
+🆘 [Get Support](../../issues)  
+
+</details>
 
 </td>
 </tr>
@@ -251,25 +266,25 @@ Algorithmic trading and risk assessment
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=16&duration=1500&pause=600&color=F75C7E&center=true&vCenter=true&width=400&lines=📊+Live+Performance+Dashboard;🚀+Excellence+Impact+Tracker;⚡+Real-time+Research+Insights" alt="Metrics Header"/>
 </div>
 
-🗣️ **NLP & Language Understanding** `████████████████████████████████████████` **18 projects**
+`████████████████████████████████████████` 🗣️ **NLP & Language Understanding** **18 projects**
 
-👁️ **Computer Vision & 3D Systems** `███████████████████████████████████░░░░░` **15 projects**
+`███████████████████████████████████░░░░░` 👁️ **Computer Vision & 3D Systems** **15 projects**
 
-🏥 **Healthcare AI & Medical Tech** `██████████████████████████████░░░░░░░░░░` **12 projects**
+`██████████████████████████████░░░░░░░░░░` 🏥 **Healthcare AI & Medical Tech** **12 projects**
 
-🔗 **Graph Neural Networks** `████████████████████████░░░░░░░░░░░░░░░░` **9 projects**
+`████████████████████████░░░░░░░░░░░░░░░░` 🔗 **Graph Neural Networks** **9 projects**
 
-🤖 **Federated & Edge Learning** `██████████████████████░░░░░░░░░░░░░░░░░░` **8 projects**
+`██████████████████████░░░░░░░░░░░░░░░░░░` 🤖 **Federated & Edge Learning** **8 projects**
 
-🛡️ **Cybersecurity AI** `████████████████░░░░░░░░░░░░░░░░░░░░░░░░` **7 projects**
+`████████████████░░░░░░░░░░░░░░░░░░░░░░░░` 🛡️ **Cybersecurity AI** **7 projects**
 
-💰 **Financial AI** `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░` **6 projects**
+`██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░` 💰 **Financial AI** **6 projects**
 
-🌍 **Climate AI** `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **5 projects**
+`██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 🌍 **Climate AI** **5 projects**
 
-🚀 **Space AI** `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **3 projects**
+`████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 🚀 **Space AI** **3 projects**
 
-🧬 **Biocomputing** `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **2 projects**
+`██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 🧬 **Biocomputing** **2 projects**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=500&lines=🎯+Driving+Innovation+Through+Research;📈+Measuring+Excellence+Daily;⚡+Real-time+Progress+Tracking" alt="Analytics Footer"/>
@@ -291,10 +306,10 @@ Algorithmic trading and risk assessment
 
 ### 🎯 Key Performance Indicators
 
-![Active Projects](https://img.shields.io/badge/🔥%20Active%20Projects-62-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white)
-![Research Areas](https://img.shields.io/badge/🔬%20Research%20Areas-20+-blue?style=for-the-badge&logo=science&logoColor=white)
-![Completion](https://img.shields.io/badge/✅%20Completion%20Rate-85%25-success?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Innovation](https://img.shields.io/badge/💡%20Innovation%20Score-9.2%2F10-yellow?style=for-the-badge&logo=lightbulb&logoColor=black)
+![Active Projects](https://img.shields.io/badge/🔥%20Active%20Projects-62-brightgreen?style=flat&logo=project-diagram&logoColor=white)
+![Research Areas](https://img.shields.io/badge/🔬%20Research%20Areas-20+-blue?style=flat&logo=science&logoColor=white)
+![Completion](https://img.shields.io/badge/✅%20Completion%20Rate-85%25-success?style=flat&logo=checkmarx&logoColor=white)
+![Innovation](https://img.shields.io/badge/💡%20Innovation%20Score-9.2%2F10-yellow?style=flat&logo=lightbulb&logoColor=black)
 
 </div>
 
@@ -323,7 +338,7 @@ Algorithmic trading and risk assessment
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=14&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=250&height=60&lines=🛟+Support+Center;📞+Smart+Contact+Hub" alt="Support Visual"/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
 </div>
 
 </td>
