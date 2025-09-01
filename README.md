@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Advanced%20ML%20Research&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Pushing%20the%20boundaries%20of%20artificial%20intelligence&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-
 <div align="center">
 
 ## 🎓 {COURSE_NAME} Research Projects
